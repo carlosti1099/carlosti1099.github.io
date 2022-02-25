@@ -11413,6 +11413,10 @@ p.lead {
   background-color: #3b3bd2;
 }
 
+.social-icons .youtube {
+  background-color: #dc3545;
+}
+
 .dev-icons {
   font-size: 3rem;
 }
