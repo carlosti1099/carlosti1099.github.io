@@ -11433,16 +11433,12 @@ p.lead {
   color:#ffc720;
 }
 
-.dev-icons .fa-angular {
-  color:#dc3545;
-}
-
-.dev-icons .fa-angular {
-  color:#dc3545;
-}
-
 .dev-icons .fa-react {
-  color: #0dcaf0;
+  color:#0dcaf0;
+}
+
+.dev-icons .fa-bootstrap {
+  color:#3b3bd2;
 }
 
 .dev-icons .fa-node-js {
@@ -11455,6 +11451,11 @@ p.lead {
 
 .dev-icons .fa-wordpress {
   color: #4682B4;
+}
+
+.dev-icons .java img {
+  width: 48px;
+  margin-top: -14px;
 }
 
 section.resume-section {
