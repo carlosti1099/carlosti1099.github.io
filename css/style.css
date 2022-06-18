@@ -1,0 +1,43 @@
+navbar
+
+section.resume-section {
+    background-color:#e9ecef;
+}
+
+/*Titulo section*/
+h2.mb-5 {
+    background-image: radial-gradient(circle at 26.04% 56.42%, #092534 0, #0d2535 8.33%, #112435 16.67%, #152335 25%, #192335 33.33%, #1d2235 41.67%, #202134 50%, #232033 58.33%, #261f32 66.67%, #291f30 75%, #2b1e2f 83.33%, #2d1d2d 91.67%, #2f1d2b 100%);
+    color: #fff;
+    padding: 15px;
+    border-radius: 50px 30px;
+}
+
+/*descricaao vaga*/
+.portfolio-caption {
+    padding-top: 10px;
+    text-align: center;    
+}   
+         
+.btn-grad {
+    background-image: radial-gradient(circle at 26.04% 56.42%, #092534 0, #0d2535 8.33%, #112435 16.67%, #152335 25%, #192335 33.33%, #1d2235 41.67%, #202134 50%, #232033 58.33%, #261f32 66.67%, #291f30 75%, #2b1e2f 83.33%, #2d1d2d 91.67%, #2f1d2b 100%);
+    margin: 10px;
+    padding: 15px 35px;
+    text-align: center;
+    font-size: 12px;
+    text-transform: uppercase;
+    transition: 0.5s;
+    /* background-size: 150% auto; */
+    color: white;            
+    box-shadow: 0 0 20px #eee;
+    border-radius: 10px;
+}
+
+.btn-grad:hover {
+    background-position: right center; /* change the direction of the change here */
+    border: 2px solid rgb(77, 54, 54);
+    color: red;
+}
+
+
+ 
+ 
