@@ -11465,6 +11465,22 @@ p.lead {
   margin-top: -14px;
 }
 
+/*Icones devops*/
+.dev-icons .vitualbox img {
+  width: 48px;
+  margin-top: -14px;
+}
+
+.dev-icons .fa-linux {
+  color: #000;
+}
+
+.dev-icons .fa-ubuntu {
+  color: #D2691E;
+}
+
+/*Fim icones*/
+
 section.resume-section {
   /*display: flex;*/
   align-items: center;
